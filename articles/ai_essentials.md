@@ -1,3 +1,11 @@
+---
+title: "手動追加"
+emoji: "💨"
+type: "tech" # tech: 技術記事 / idea: アイデア
+topics: []
+published: false
+---
+
 # Google AI Essentials
 
 ## コースURL
